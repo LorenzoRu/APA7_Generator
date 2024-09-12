@@ -1,6 +1,6 @@
 # Générateur Bibliographie format APA7 Scopus 
 
-##Python 3.12 est requis pour ce scrypt
+## Python 3.12 est requis pour ce scrypt
 
 ## Installation 
 - télécharger le repo
